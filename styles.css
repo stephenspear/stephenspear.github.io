@@ -3,14 +3,14 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-  color: #080b30;
+  color: lightsalmon;
   text-align: center;
 }
 
 .assign {
   margin: 10px;
   padding: 10px;
-  background-color: #080b30;
+  background-color: lightsalmon;
   display: flex;
 }
 .assign img {
