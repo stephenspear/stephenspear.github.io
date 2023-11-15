@@ -1,10 +1,12 @@
 body {
   background-color: lightblue;
   font-family: Arial, Helvetica, sans-serif;
+  display: flex;
 }
 h1 {
   color: lightsalmon;
   text-align: center;
+  width: 100%;
 }
 a {
   text-decoration: none;
@@ -20,7 +22,9 @@ a:hover {
   margin: 10px;
   padding: 10px;
   background-color: lightsalmon;
-  display: flex;
+  display: block;
+  width: 20%;
+  box-shadow: 8px 8px black;
 }
 .assign img {
   width: 200px;
