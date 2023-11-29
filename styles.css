@@ -2,7 +2,7 @@ body {
   background-color: lightblue;
   font-family: Arial, Helvetica, sans-serif;
   display: flex;
-  flex-wrap: flex;
+  flex-wrap: wrap;
 }
 h1 {
   color: lightsalmon;
